@@ -1,0 +1,16 @@
+{
+  "name": "think-like-a-vc",
+  "owner": {
+    "name": "Ryan Everton"
+  },
+  "metadata": {
+    "description": "Run an investment decision the way the best VC partnerships do: conviction score, the founder and moat tests, a bias section, a premortem and return-the-fund math. Companion to the free book How to Think Like a VC."
+  },
+  "plugins": [
+    {
+      "name": "think-like-a-vc",
+      "source": "./",
+      "description": "Run an investment decision the way the best VC partnerships do: conviction score, the founder and moat tests, a bias section, a premortem and return-the-fund math. Companion to the free book How to Think Like a VC."
+    }
+  ]
+}

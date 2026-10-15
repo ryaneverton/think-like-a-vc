@@ -1,0 +1,23 @@
+{
+  "name": "think-like-a-vc",
+  "description": "Run an investment decision the way the best VC partnerships do: conviction score, the founder and moat tests, a bias section, a premortem and return-the-fund math. Companion to the free book How to Think Like a VC.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ryan Everton",
+    "url": "https://ryaneverton.org"
+  },
+  "homepage": "https://github.com/ryaneverton/think-like-a-vc",
+  "repository": "https://github.com/ryaneverton/think-like-a-vc",
+  "license": "MIT",
+  "keywords": [
+    "claude",
+    "claude-skills",
+    "agent-skills",
+    "venture-capital",
+    "investing",
+    "angel-investing",
+    "fundraising",
+    "founders",
+    "decision-making"
+  ]
+}
